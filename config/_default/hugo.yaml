@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Omni Perception Research Group # Website name
-baseURL: 'https://colec777.github.io/omni.page.io/' # Website URL
+title: NJU-EE Autonomous Driving Research Group # Website name
+baseURL: 'https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/' # Website URL
 
 ############################
 ## LANGUAGE
