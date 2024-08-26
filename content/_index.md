@@ -40,7 +40,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text:
+      text: Accurate 3D perception is essential for autonomous driving. Addressing the environmental perception requirements of autonomous driving, we have conducted research into omnidirectional depth estimation algorithm. Building upon this foundation, we have further explored integrated sensing and computing algorithm deployed on hardware, as well as occupancy network aided by depth information.
     design:
       columns: '1'
       background:
