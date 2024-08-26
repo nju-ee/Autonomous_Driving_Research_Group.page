@@ -43,8 +43,8 @@ sections:
   - block: markdown
     content:
       title: Innovation Points
-      subtitle: 'Novel Workflow'
-      text: <p> <img  src="occ_workflow.png" align="left" /> </p>
+      subtitle: ''
+      text: <center> **Novel Workflow** </center> <p> <img  src="occ_workflow.png" align="left" /> </p>
   - block: markdown
     content:
       title: Innovation Points
