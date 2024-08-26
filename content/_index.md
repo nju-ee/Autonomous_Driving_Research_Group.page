@@ -38,23 +38,23 @@ sections:
   
   - block: markdown
     content:
-      title:
+      title: Application Area
       subtitle: ''
-      text: Accurate 3D perception is essential for autonomous driving. Addressing the environmental perception requirements of autonomous driving, we have conducted research into omnidirectional depth estimation algorithm. Building upon this foundation, we have further explored integrated sensing and computing algorithm deployed on hardware, as well as occupancy network aided by depth information.
+      text: <p> <img  src="auto_car.png" align="right" width="500" /> <br> Accurate 3D perception is essential for autonomous driving. Addressing the environmental perception requirements of autonomous driving, we have conducted research into omnidirectional depth estimation algorithm. Building upon this foundation, we have further explored integrated sensing and computing algorithm deployed on hardware, as well as occupancy network aided by depth information.</p>
     design:
       columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      #background:
+      #  image: 
+      #    filename: coders.jpg
+      #    filters:
+      #      brightness: 1
+      #    parallax: false
+      #    position: center
+      #    size: cover
+      #    text_color_light: true
+      #spacing:
+      #  padding: ['20px', '0', '20px', '0']
+      #css_class: fullscreen
 
   - block: collection
     content:
