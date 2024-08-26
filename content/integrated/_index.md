@@ -50,6 +50,7 @@ sections:
       title: Hardware Deployment Framework
       subtitle: ''
       text: <br><p> <img  src="car_dis.png" align="left" width="800" /> We utilize an autonomous vehicle equipped with six fisheye cameras on Jetson AGX Orin 64G as the simulation platform, which offers up to 275 TOPS for deep learning acceleration. We divide the entire network according to the task allocation of the system. Correspondingly, we allocate memory and computing resources for each computing task and isolate them from each other. To match the capability of a near-sensor NPU, we restrict the resources for TF , ensuring it operates under 5 TOPS. We achieve depth estimation at 15 frames per second under the input resolution of 1920 × 1080 and the depthmap resoluiton of 720×180 </p> <br><p> <img  src="Fig12.drawio.png" align="center"  /><br>The hardware design of the system is demonstrated in Fig above, which includes multiple smart camera sensors equipped with computing accelerators and a host side processor. All the data transmitted from sensors are synchronized and consolidated to the host processor with a local NPU to complete the rest of the system tasks. The Vidar-NSC has significantly decreased in duration compared to the original one. In addition, its time consumption increases more slowly as the number of cameras increases, indicating that it has the potential for applications that require more cameras.</p>
+  - block: markdown
     content:
       title: Experimental Result
       subtitle: 'Qualitative Comparison with Classical Methods'
