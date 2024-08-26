@@ -44,7 +44,7 @@ sections:
     content:
       title: Problem Statement
       subtitle: 'What have we done compared to the traditional architecture?'
-      text: <p> <img  src="Fig1.drawio.png" align="left" /> (a) illustrates a naive centralized architecture widely adopted in many multicamera vision tasks, where the cameras only handle simple processing of the captured data, while a central host system performs more complex computing tasks.(b) adopts this design, which limits the interconnection of on-chip networks and isolates the data and computational features of each sensor. We propose Vidar-NSC, an omnidirectional depth estimation system integrated nearsensor computing architecture. As shown in (c), it assigns partial tasks to computational units or accelerators.</p>
+      text: <p> <img  src="Fig1.drawio.png" align="left" width="600"/> (a) illustrates a naive centralized architecture widely adopted in many multicamera vision tasks, where the cameras only handle simple processing of the captured data, while a central host system performs more complex computing tasks.(b) adopts this design, which limits the interconnection of on-chip networks and isolates the data and computational features of each sensor. We propose Vidar-NSC, an omnidirectional depth estimation system integrated nearsensor computing architecture. As shown in (c), it assigns partial tasks to computational units or accelerators.</p>
   - block: markdown
     content:
       title: Innovation Points
@@ -64,7 +64,7 @@ sections:
     content:
       title: Experimental Result
       subtitle: 'Qualitative Comparison with Classical Methods'
-      text: <p> <img  src="occ_compare.png" align="left" width="600"/> Even in less voxels, we have achieved better reconstruction results, especially at close range. </p>
+      text: <p> <img  src="occ_compare.png" align="left" /> Even in less voxels, we have achieved better reconstruction results, especially at close range. </p>
   #add some unique images
     #design:
     #  columns: '1'
