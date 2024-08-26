@@ -10,7 +10,7 @@ sections:
       title: |
         Vidar-NSC
       image:
-        filename: occ.png
+        filename: inte.png
       text: |
         <br>
         
