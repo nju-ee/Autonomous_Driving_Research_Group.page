@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        NJU-EE Autonomous Driving
-        Research Group
+        NJU-EE Autonomous Driving Research Group
       image:
         filename: welcome.jpg
       text: |
