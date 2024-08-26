@@ -44,27 +44,16 @@ sections:
     content:
       title: Problem Statement
       subtitle: 'What have we done compared to the traditional architecture?'
-      text: <p> <img  src="Fig1.drawio.png" align="left" width="600"/> (a) illustrates a naive centralized architecture widely adopted in many multicamera vision tasks, where the cameras only handle simple processing of the captured data, while a central host system performs more complex computing tasks.(b) adopts this design, which limits the interconnection of on-chip networks and isolates the data and computational features of each sensor. We propose Vidar-NSC, an omnidirectional depth estimation system integrated nearsensor computing architecture. As shown in (c), it assigns partial tasks to computational units or accelerators.</p>
+      text: <br><p> <img  src="fig1_dis.png" align="left" /> </p>
   - block: markdown
     content:
-      title: Innovation Points
-      subtitle: 'Novel Workflow'
-      text: <p> <img  src="occ_workflow.png" align="left" /> </p>
-  - block: markdown
-    content:
-      title: Innovation Points
-      subtitle: 'Novel Cylinder Voxel Representation'
-      text: <p> <img  src="occ_coord.png" align="left" /> </p>    
-  - block: markdown
-    content:
-      title: Innovation Points
-      subtitle: 'Novel Dataset'
-      text: <p> <img  src="occ_dataset.png" align="left" /> </p>    
-  - block: markdown
+      title: Hardware Deployment Framework
+      subtitle: ''
+      text: <br><p> <img  src="car_dis.png" align="left" width="800" /> We utilize an autonomous vehicle equipped with six fisheye cameras on Jetson AGX Orin 64G as the simulation platform, which offers up to 275 TOPS for deep learning acceleration. We divide the entire network according to the task allocation of the system. Correspondingly, we allocate memory and computing resources for each computing task and isolate them from each other. To match the capability of a near-sensor NPU, we restrict the resources for TF , ensuring it operates under 5 TOPS. We achieve depth estimation at 15 frames per second under the input resolution of 1920 × 1080 and the depthmap resoluiton of 720×180 </p> <br><p> <img  src="Fig12.drawio.png" align="center"  /><br>The hardware design of the system is demonstrated in Fig above, which includes multiple smart camera sensors equipped with computing accelerators and a host side processor. All the data transmitted from sensors are synchronized and consolidated to the host processor with a local NPU to complete the rest of the system tasks. The Vidar-NSC has significantly decreased in duration compared to the original one. In addition, its time consumption increases more slowly as the number of cameras increases, indicating that it has the potential for applications that require more cameras.</p>
     content:
       title: Experimental Result
       subtitle: 'Qualitative Comparison with Classical Methods'
-      text: <p> <img  src="occ_compare.png" align="left" /> Even in less voxels, we have achieved better reconstruction results, especially at close range. </p>
+      text: <p> <img  src="Fig9.drawio.png" align="center" /> <br> We achieve better performance compared with other methods, especially in terms of detail.</p>
   #add some unique images
     #design:
     #  columns: '1'
