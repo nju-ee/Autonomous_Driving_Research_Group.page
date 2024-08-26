@@ -44,22 +44,22 @@ sections:
     content:
       title: Innovation Points
       subtitle: ''
-      text: <center> **Novel Workflow** </center> <p> <img  src="occ_workflow.png" align="left" /> </p>
+      text: <center><big><b>Novel Workflow</b></big></center> <p> <img  src="occ_workflow.png" align="left" /> </p> <center><big><b>Novel Cylinder Voxel Representation</b></big></center> <p> <img  src="occ_coord.png" align="left" /> </p> <center><big><b>Novel Dataset</b></big></center> <p> <img  src="occ_dataset.png" align="left" /> </p>
   - block: markdown
     content:
       title: Innovation Points
-      subtitle: 'Novel Cylinder Voxel Representation'
+      subtitle: ''
       text: <p> <img  src="occ_coord.png" align="left" /> </p>    
   - block: markdown
     content:
       title: Innovation Points
-      subtitle: 'Novel Dataset'
+      subtitle: ''
       text: <p> <img  src="occ_dataset.png" align="left" /> </p>    
   - block: markdown
     content:
       title: Experimental Result
       subtitle: ''
-      text: <center> **Qualitative Comparison with Classical Methods** </center> <p> <img  src="occ_compare.png" align="left" /> Even in less voxels, we have achieved better reconstruction results, especially at close range. </p> <center> **Demo Video** </center> <center> It will be displayed later! </center>
+      text: <center><big><b>Qualitative Comparison with Classical Methods</b></big></center> <p> <img  src="occ_compare.png" align="left" /> Even in less voxels, we have achieved better reconstruction results, especially at close range. </p> <center><big><b>Demo Video</b></big></center> <center> It will be displayed later! </center>
 
 
   #add some unique images
