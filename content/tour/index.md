@@ -23,7 +23,7 @@ sections:
         align: right
         background:
           image:
-            filename: contact.jpg
+            filename: slide_depth.png
             filters:
               brightness: 0.7
           position: center
@@ -38,7 +38,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: slide_sensor.png
             filters:
               brightness: 0.5
           position: center
