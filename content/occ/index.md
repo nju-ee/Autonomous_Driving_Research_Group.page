@@ -58,8 +58,13 @@ sections:
   - block: markdown
     content:
       title: Experimental Result
-      subtitle: 'Qualitative Comparison with Classical Methods'
-      text: <p> <img  src="occ_compare.png" align="left" /> Even in less voxels, we have achieved better reconstruction results, especially at close range. </p>
+      subtitle: ''
+      text: <center> **Qualitative Comparison with Classical Methods** </center>
+      <p> <img  src="occ_compare.png" align="left" /> Even in less voxels, we have achieved better reconstruction results, especially at close range. </p>
+      <center> **Demo Video** </center>
+      <center> It will be displayed later! </center>
+
+
   #add some unique images
     #design:
     #  columns: '1'
