@@ -64,7 +64,7 @@ sections:
     content:
       title: Experimental Result
       subtitle: 'Qualitative Comparison with Classical Methods'
-      text: <p> <img  src="occ_compare.png" align="left" /> Even in less voxels, we have achieved better reconstruction results, especially at close range. </p>
+      text: <p> <img  src="occ_compare.png" align="left" width="600"/> Even in less voxels, we have achieved better reconstruction results, especially at close range. </p>
   #add some unique images
     #design:
     #  columns: '1'
