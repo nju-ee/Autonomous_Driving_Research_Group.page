@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Occupancy Network
+        Vidar-NSC
       image:
         filename: occ.png
       text: |
         <br>
         
-        Omnidirectional Depth-Aided Occupancy Prediction based on Cylindrical Voxel for Autonomous Driving
+        An Omnidirectional Depth Estimation System based on Near-Sensor Computing Architecture for Autonomous Driving
   
   #- block: collection
   #  content:
