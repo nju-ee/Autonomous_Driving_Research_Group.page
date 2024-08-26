@@ -6,5 +6,7 @@ type: landing
 
 sections:
   - block: markdown
+    content:
+      title: Under Construction
 ---
 Under Construction

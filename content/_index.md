@@ -58,7 +58,7 @@ sections:
     content:
       title: Research Direction
       subtitle: ''
-      text: <p><center><big><b>Depth Estimation </center></big></b></p> <br> We have studied depth estimation from multi-camera systems to obtain structural information of the surrounding environment for autonomous driving systems. Here is a demo video. More details are available in <a href="https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/depth/" title="Depth Estimation">this page</a> <br> <video src="video_sample_real_scene_1980_2200" ></video> <br> <p><center><big><b> Integrated Sensing and Computing </center></big></b></p>
+      text: <p><center><big><b>Depth Estimation </center></big></b></p> <br> We have studied depth estimation from multi-camera systems to obtain structural information of the surrounding environment for autonomous driving systems. Here is a demo video. More details are available in <a href="https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/depth/" title="Depth Estimation">this page</a> <br> <video src="ground1.mp4" ></video> <br> <p><center><big><b> Integrated Sensing and Computing </center></big></b></p>
   - block: collection
     content:
       title: Latest Preprints
