@@ -44,7 +44,7 @@ sections:
     content:
       title: Problem Statement
       subtitle: 'What have we done compared to the traditional architecture?'
-      text: <br><p> <img  src="fig1_dis.png" align="left" /> </p>
+      text: <p> <img  src="fig1_dis.png" align="left" /> </p>
   - block: markdown
     content:
       title: Hardware Deployment Framework

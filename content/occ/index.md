@@ -49,7 +49,7 @@ sections:
     content:
       title: Innovation Points
       subtitle: ''
-      text: <br><center><big><b>Novel Workflow</b></big></center> <br><p> <img  src="occ_workflow.png" align="left" /> </p> <br><center><big><b>Novel Cylinder Voxel Representation</b></big></center> <br><p> <img  src="occ_coord.png" align="left" /> </p> <br><center><big><b>Novel Dataset</b></big></center> <br><p> <img  src="occ_dataset.png" align="left" /> </p>
+      text: <center><big><b>Novel Workflow</b></big></center> <br><p> <img  src="occ_workflow.png" align="left" /> </p> <br><center><big><b>Novel Cylinder Voxel Representation</b></big></center> <br><p> <img  src="occ_coord.png" align="left" /> </p> <br><center><big><b>Novel Dataset</b></big></center> <br><p> <img  src="occ_dataset.png" align="left" /> </p>
   #- block: markdown
   #  content:
   #    title: Innovation Points

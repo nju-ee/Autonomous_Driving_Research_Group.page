@@ -44,12 +44,12 @@ sections:
     content:
       title: Experiment Setup
       subtitle: 'We build a system on a remote-controlled car to simulate autonomous driving scenarios.'
-      text: <br><p> <img  src="car.png" align="center" width="1250" /> </p>
+      text: <p> <img  src="car.png" align="center" width="1250" /> </p>
   - block: markdown
     content:
       title: Experimental Result
       subtitle: ''
-      text: <br><center><big><b>Qualitative Result</b></big></center> <br><br> <p> <img  src="depth_display.jpg" align="center" width="1250" /> <br><br>We have achieved good result in real-world scenarios, which can effectively reconstruct the surrounding environment of the vehicle. </p><br><br> <center><big><b>More Demo Video</b></big></center> <br><br> <center>A DEMO of driving on the road</center> <br><br> <video src="ground2.mp4" autoplay="autoplay" loop="loop" controls="controls"></video> <br><br> <center>A DEMO of driving in the underground parking lot</center> <br><br> <video src="underground1.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
+      text: <center><big><b>Qualitative Result</b></big></center> <br> <p> <img  src="depth_display.jpg" align="center" width="1250" /> <br>We have achieved good result in real-world scenarios, which can effectively reconstruct the surrounding environment of the vehicle. </p><br> <center><big><b>More Demo Video</b></big></center> <br> <center>A DEMO of driving on the road</center> <br> <video src="ground2.mp4" autoplay="autoplay" loop="loop" controls="controls"></video> <br> <center>A DEMO of driving in the underground parking lot</center> <br> <video src="underground1.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
   #add some unique images
     #design:
     #  columns: '1'
