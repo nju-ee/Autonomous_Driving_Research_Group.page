@@ -43,8 +43,8 @@ sections:
   - block: markdown
     content:
       title: Problem Statement
-      subtitle: ''
-      text: 
+      subtitle: 'What is vision-based Occupancy task and why we need it?'
+      text: <img  src="occ_prob.png" align="center" width="1250" />
   - block: markdown
     content:
       title: Innovation Points
