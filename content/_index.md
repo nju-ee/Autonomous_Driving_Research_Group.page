@@ -10,7 +10,7 @@ sections:
       title: |
         NJU-EE Autonomous Driving Research Group
       image:
-        filename: welcome.jpg
+        filename: lab.jpg
       text: |
         <br>
         
