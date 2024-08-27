@@ -63,7 +63,7 @@ sections:
     content:
       title: 
       subtitle: ''
-      text: <p><center><big><b> Integrated Sensing and Computing </center></big></b></p> <br> We propose an omnidirectional depth estimation system based on near-sensor computing architecture. The proposed work achieves load balancing by task partitioning, while reducing transmission bandwidth through the feature projection and learnable codec. More details are available in <a href="https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/integrated/" title="Integrated Sensing and Computing">this page</a> <br><br><br> <p><img  src="Fig2.drawio.png" align="left"  /> </p>
+      text: <p><center><big><b> Integrated Sensing and Computing </center></big></b></p> <br> We propose an omnidirectional depth estimation system based on near-sensor computing architecture. The proposed work achieves load balancing by task partitioning, while reducing transmission bandwidth through the feature projection and learnable codec. More details are available in <a href="https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/integrated/" title="Integrated Sensing and Computing">this page</a> <br><br><br> <p><img  src="Fig2.drawio.png" align="center" width="1000"  /> </p>
   - block: markdown
     content:
       title: 
