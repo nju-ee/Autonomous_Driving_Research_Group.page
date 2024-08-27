@@ -25,6 +25,7 @@ sections:
       directions: Room 136, 1st Floor, School of Electronic Science and Engineering
       office_hours:
         - 'Weekday 10:00-12:00 and 14:00-17:00'
+      text: Want to learn more about <a href="https://nju-ee.github.io/" title="emAI@NJU">our lab</a>.
       #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
