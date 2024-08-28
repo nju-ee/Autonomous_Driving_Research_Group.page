@@ -34,3 +34,6 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  - name: emAI Lab
+    url: https://nju-ee.github.io/
+    weight: 70
