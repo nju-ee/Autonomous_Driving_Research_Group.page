@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jiayu Wu(吴佳昱)
+title: Shuwen Xu(许薯文)
 
 # Username (this should match the folder name)
 authors:
-  - Wu Jiayu
+  - Xu Shuwen
   
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master(2021-)
+role: Master
 
 # Organizations/Affiliations
 #organizations:
