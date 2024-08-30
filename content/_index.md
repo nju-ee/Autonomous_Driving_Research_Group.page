@@ -68,7 +68,7 @@ sections:
     content:
       title: 
       subtitle: ''
-      text: <p><center><big><b> Occupancy Network </center></big></b></p> <br>  Based on the depth information provided by our lab's Depth Estimation Network, we propose a Sketch-Coloring framework based on cylindrical voxel.  Here is a demo video. Experimental results demonstrate that our Sketch-Coloring network significantly enhances 3D perception performance, especially in nearby regions, which makes our method a promising solution for autonomous driving perception. More details are available in <a href="https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/occ/" title="Occupancy Network">this page</a> <br><br> <video src="occ.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
+      text: <p><center><big><b> Occupancy Network </center></big></b></p> <br>  Based on the depth information provided by our lab's Depth Estimation Network, we propose a Sketch-Coloring framework based on cylindrical voxel.  Here is a demo video. Experimental results demonstrate that our Sketch-Coloring network significantly enhances 3D perception performance, especially in nearby regions, which makes our method a promising solution for autonomous driving perception. More details are available in <a href="https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/occ/" title="Occupancy Network">this page</a> <br><br> <video src="occ_dis.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
   - block: collection
     content:
       title: Latest Preprints
