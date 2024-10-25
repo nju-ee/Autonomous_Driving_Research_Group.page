@@ -21,7 +21,7 @@ role: Master
 bio: 简略介绍
 
 interests:
-  - Visual depth perception and 3D reconstruction
+  - CV
   - Depth estimation
 
 #education:
