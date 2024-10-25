@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jiaheng Li(李嘉恒)
+title: Shuwen Xu(许薯文)
 
 # Username (this should match the folder name)
 authors:
-  - Li Jiaheng
+  - Shuwen Xu
   
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master(2024-)
+role: Master
 
 # Organizations/Affiliations
 #organizations:
@@ -21,8 +21,8 @@ role: Master(2024-)
 bio: 简略介绍
 
 interests:
-  - Visual 3D Perception
-  - Data Collection
+  - Visual depth perception and 3D reconstruction
+  - Depth estimation
 
 #education:
 #  courses:
@@ -40,10 +40,10 @@ interests:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '545515600@qq.com'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:jcboxq@126.com'
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/jcboxq

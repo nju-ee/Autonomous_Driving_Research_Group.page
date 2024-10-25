@@ -4,7 +4,7 @@ title: Yang Li(李杨)
 
 # Username (this should match the folder name)
 authors:
-  - Li Yang
+  - Yang Li
 
 # Is this the primary user of the site?
 superuser: false
