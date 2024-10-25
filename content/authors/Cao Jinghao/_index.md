@@ -20,9 +20,9 @@ role: PhD(2022-)
 # Short bio (displayed in user profile at end of posts)
 bio: 简略介绍
 
-interests:
-  - Visual depth perception and 3D reconstruction
-  - Depth estimation
+#interests:
+#  - Visual depth perception and 3D reconstruction
+#  - Depth estimation
 
 #education:
 #  courses:
