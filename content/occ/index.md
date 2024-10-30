@@ -47,7 +47,7 @@ sections:
       text: <img  src="occ_prob.png" align="center" width="1250" />
   - block: markdown
     content:
-      title: Innovation Points
+      title: Novelties
       subtitle: ''
       text: <center><big><b>Novel Workflow</b></big></center> <br><p> <img  src="occ_workflow.png" align="left" /> </p> <br><center><big><b>Novel Cylinder Voxel Representation</b></big></center> <br><p> <img  src="occ_coord.png" align="left" /> </p> <br><center><big><b>Novel Dataset</b></big></center> <br><p> <img  src="occ_dataset.png" align="left" /> </p>
   #- block: markdown
