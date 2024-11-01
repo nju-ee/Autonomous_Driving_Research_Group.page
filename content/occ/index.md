@@ -64,7 +64,7 @@ sections:
     content:
       title: Experimental Result
       subtitle: ''
-      text: <br><center><big><b>Qualitative Comparison with Classical Methods</b></big></center> <br><p> <img  src="more_occ.png" align="left" /> <br>Even in less voxels, we have achieved better reconstruction results, especially at close range. </p><br> <center><big><b>Demo Video</b></big></center> <br><br><center> There is a DEMO video in urban area.</center> <br><br> <video src="occ_dis.mp4" autoplay="autoplay" loop="loop" controls="controls"></video> <br><br><center> There is a DEMO video in countryside area.</center> <br><br> <video src="occ_countryside.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
+      text: <br><center><big><b>Qualitative Comparison with Classical Methods</b></big></center> <br><p> <img  src="more_occ.png" align="left" /> <br>Even in less voxels, we have achieved better reconstruction result, especially at close range. </p><br> <center><big><b>Demo Video</b></big></center> <br><br><center> There is a DEMO video in urban area.</center> <br><br> <video src="occ_dis.mp4" autoplay="autoplay" loop="loop" controls="controls"></video> <br><br><center> There is a DEMO video in countryside area.</center> <br><br> <video src="occ_countryside.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
 
 
 
