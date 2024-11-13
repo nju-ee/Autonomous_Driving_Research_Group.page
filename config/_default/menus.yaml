@@ -22,6 +22,9 @@ main:
   - parent: Research Focus
     name: Integrated Sensing and Computing
     url: integrated
+  - parent: Research Focus
+    name: 3D Surround View
+    url: surround
   - name: People
     url: people
     weight: 30

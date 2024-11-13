@@ -63,6 +63,21 @@ sections:
           icon_pack: fas
           text: Learn More
           url: ../occ/
+      - title: 3D Surround View
+        content: 'True 3D Surround View with Foreground Reconstruction'
+        align: right
+        background:
+          image:
+            filename: 52_1_2.png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Learn More
+          url: ../surround/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
