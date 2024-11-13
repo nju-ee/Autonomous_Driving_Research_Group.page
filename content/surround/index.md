@@ -59,7 +59,7 @@ sections:
     content:
       title: Experimental Result
       subtitle: ''
-      text: <br><center><big><b>Qualitative rusult of our proposed method</b></big></center><br> <br><br><big><center> Qualitative result of simulated scenarios </center> </big><br><br><p> <img  src="overview.png" align="center" /> </p><br> <br><br><big><center> Close-region detail of simulated scenarios </center></big> <br><br> <p> <img  src="detail.png" align="center" /> </p><br> <br><br><big><center> Qualitative result of real scenarios </center> </big><br><br><p> <img  src="real sence.png" align="center" /> </p><br> <br><br><big><center> There is a comparison video.</center> </big><br><br> <video src="comparison_around_car.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
+      text: <center><big><b>Qualitative rusult of our proposed method</b></big></center><br><big><center> Qualitative result of simulated scenarios </center> </big><br><p> <img  src="overview.png" align="center" /> </p><br> <big><center> Close-region detail of simulated scenarios </center></big> <br> <p> <img  src="detail.png" align="center" /> </p><br><big><center> Qualitative result of real scenarios </center> </big><br><p> <img  src="real sence.png" align="center" /> </p><br> <big><center> There is a comparison video.</center> </big><br> <video src="comparison_around_car.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
 
 
 
