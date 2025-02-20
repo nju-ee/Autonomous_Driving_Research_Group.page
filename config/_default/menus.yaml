@@ -31,12 +31,12 @@ main:
 #  - name: Events
 #    url: event
 #    weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
-  - name: emAI Lab
+#  - name: Publications
+#    url: publication
+#    weight: 50
+#  - name: Contact
+#    url: contact
+#    weight: 60
+  - name: VAIS Lab
     url: https://nju-ee.github.io/
     weight: 70
