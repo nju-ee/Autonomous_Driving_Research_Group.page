@@ -39,7 +39,7 @@ sections:
     content:
       title: WristDaily360 Dataset
       subtitle: ''
-      text: <br><p> <img  src="car_dis.png" align="left" width="600" />We build the panoramic human activity dataset WristDaily360 from the perspective of wrist wearing. This dataset collects panoramic human behavior video data recorded from the wrist perspective. Its content mainly records people's daily activities, including sports, entertainment, household chores, learning, and other activities. </p> <br><p> <img  src="Fig12.drawio.png" align="center"  /><br>The hardware design of the system is demonstrated in Fig above, which includes multiple smart camera sensors equipped with computing accelerators and a host side processor. All the data transmitted from sensors are synchronized and consolidated to the host processor with a local NPU to complete the rest of the system tasks. The Vidar-NSC has significantly decreased in duration compared to the original one. In addition, its time consumption increases more slowly as the number of cameras increases, indicating that it has the potential for applications that require more cameras.</p>
+      text: <br><p> <img  src="dataset.jpg" align="left" width="600" />We build the panoramic human activity dataset WristDaily360 from the perspective of wrist wearing. This dataset collects panoramic human behavior video data recorded from the wrist perspective. Its content mainly records people's daily activities, including sports, entertainment, household chores, learning, and other activities. </p> <br><p> There is a DEMO video.</center> <br><br> <video src="dataset.mp4" autoplay="autoplay" loop="loop" controls="controls"></video>
   
   #add some unique images
     #design:
