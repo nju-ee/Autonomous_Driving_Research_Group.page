@@ -25,6 +25,9 @@ main:
   - parent: Research Focus
     name: 3D Surround View
     url: surround
+  - parent: Research Focus
+    name: Video Understanding
+    url: video
 #  - name: People
 #    url: people
 #    weight: 30
